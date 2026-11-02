@@ -1,8 +1,8 @@
 # EX04-Record-Image-Tranformation
 
-**Developed By:** Rithesh S
+# Developed By: Rithesh S
 
-**Register Number:** 212225220084
+# Register Number: 212225220084
 
 ## Aim
 
